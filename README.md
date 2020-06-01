@@ -42,5 +42,14 @@
         <li>git push origin master</li>
     </ul>
 
+    <h2>Helpful mongo commands</h2>
+    <ul>
+        <li>mongo</li>
+        <li>show dbs</li>
+        <li>use dbName</li>
+        <li>show collections</li>
+        <li>db.collectionName.find()</li>
+    </ul>
+
 </body>
 </html>
