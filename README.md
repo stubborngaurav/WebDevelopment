@@ -23,6 +23,7 @@
         <li>ToDoList-using DB (using Mongoose, its a updated version of Template-EJS-v1, where we store data using Mongoose)</li>
         <li>Blog-Development-using DB (store on mongo db)</li>
         <li>Wiki-API (Learning RestFul API)</li>
+        <li>Secrets (Learning Authentication and Security)</li>
     </ul>
     <a href="https://www.appbrewery.co/p/web-development-course-resources/">Help and Download Resources</a>
     <a href="https://www.frontendmentor.io/challenges">Challenges for HTML/CSS/JS</a>
